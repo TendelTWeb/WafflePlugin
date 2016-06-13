@@ -1,2 +1,2 @@
 # WafflePlugin
-Copyright 2016 Tendel Thomas
+Copyright © 2016 Tendel Thomas
