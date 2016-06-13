@@ -1,3 +1,3 @@
 # WafflePlugin
-[logo](https://github.com/TendelTWeb/WafflePlugin/blob/master/logo.svg)
+![alt text]( "Logo Title Text 1")
 ### What is WafflePlugin?
