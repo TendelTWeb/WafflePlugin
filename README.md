@@ -5,4 +5,4 @@ WafflePlugin allows a navigation bar — but with the code to change the content
 ---
 Download the files and open index.html for a preview
 ### How To 
-Start by adding a div with the class of .waffle 
+Start by adding a div with the class of .waffle as a holder for the navigation. Then add a div in the .waffle element with the class of .waffle_iron and
