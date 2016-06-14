@@ -1,5 +1,5 @@
 # WafflePlugin 
-<img src="https://github.com/TendelTWeb/WafflePlugin/blob/master/logo.svg">
+![alt text](https://github.com/TendelTWeb/WafflePlugin/blob/master/logo.png "logo")
 ### What is WafflePlugin?
 WafflePlugin allows a navigation bar — but with the code to change the content like a slideshow. 
 ---
